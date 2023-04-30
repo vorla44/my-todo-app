@@ -1,5 +1,3 @@
 Return the books to the library
-Print the pictures
 Buy grocery
-uusi rivi
-Uusi 2 rivi
+Uusi juttu
